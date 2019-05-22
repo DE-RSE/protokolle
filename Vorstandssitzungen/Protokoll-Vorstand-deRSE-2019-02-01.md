@@ -1,4 +1,4 @@
-### **Vorstandssitzung de-RSE e.V.**
+# Vorstandssitzung de-RSE e.V.
 
 01.02.2019, 9:00 -- 9:45
 
