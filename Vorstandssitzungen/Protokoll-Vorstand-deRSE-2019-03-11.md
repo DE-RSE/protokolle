@@ -2,20 +2,14 @@
 
 11.03.2019, 9:00 -- 9:30
 
-+------------------------------------------+-----------------------------+
-| **Teilnehmer:**                          |                             |
-+==========================================+=============================+
-| -   Stephan Druskat (SD)                 | -   Frank Löffler (FL)      |
-|                                          |                             |
-| -   Bernadette Fritzsch (BF) - Protokoll | -   Daniel Nüst (DN)        |
-|                                          |                             |
-| -   Stephan Janosch (SJ)                 | -   Martin Hammitzsch (MH)  |
-|                                          |                             |
-+------------------------------------------+-----------------------------+
-| **Entschuldigt**                         |                             |
-+------------------------------------------+-----------------------------+
-|                                          |                             |
-+------------------------------------------+-----------------------------+
+**Teilnehmer:**
+
+-   Stephan Druskat (SD)
+-   Frank Löffler (FL)
+-   Bernadette Fritzsch (BF) - Protokoll
+-   Daniel Nüst (DN)
+-   Stephan Janosch (SJ)
+-   Martin Hammitzsch (MH)
 
 1.  **Tooltest**
 

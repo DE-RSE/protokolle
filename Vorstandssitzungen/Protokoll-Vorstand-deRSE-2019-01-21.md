@@ -4,13 +4,12 @@
 
 **Teilnehmer:**
 
-+------------------------------------------+----------------------------+
-| -   Stephan Druskat (SD)                 | -   Frank Löffler (FL)     |
-|                                          |                            |
-| -   Bernadette Fritzsch (BF) (Protokoll) | -   Daniel Nüst (DN)       |
-|                                          |                            |
-| -   Stephan Janosch (SJ)                 | -   Martin Hammitzsch (MH) |
-+------------------------------------------+----------------------------+
+- Stephan Druskat (SD)
+- Frank Löffler (FL)
+- Bernadette Fritzsch (BF) (Protokoll)
+- Daniel Nüst (DN)
+- Stephan Janosch (SJ)
+- Martin Hammitzsch (MH)
 
 1.  **Vereinsinterna**
 

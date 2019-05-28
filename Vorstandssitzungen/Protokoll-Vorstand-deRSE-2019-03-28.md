@@ -2,19 +2,11 @@
 
 28.03.2019, 9:30 -- 9:45
 
-+------------------------------------------+--+
-| **Teilnehmer:**                          |  |
-+==========================================+==+
-| -   Frank Löffler (FL)                   |  |
-|                                          |  |
-| -   Bernadette Fritzsch (BF) - Protokoll |  |
-|                                          |  |
-| -   Martin Hammitzsch (MH)               |  |
-+------------------------------------------+--+
-| **Entschuldigt**                         |  |
-+------------------------------------------+--+
-|                                          |  |
-+------------------------------------------+--+
+**Teilnehmer:**
+
+- Frank Löffler (FL)
+- Bernadette Fritzsch (BF) - Protokoll
+- Martin Hammitzsch (MH)
 
 1.  **Status Vereinkonto**
 

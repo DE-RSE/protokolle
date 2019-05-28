@@ -4,13 +4,12 @@
 
 **Teilnehmer:**
 
-+------------------------------+----------------------------+
-| -   Stephan Druskat (SD)     | -   Frank Löffler (FL)     |
-|                              |                            |
-| -   Bernadette Fritzsch (BF) | -   Daniel Nüst (DN)       |
-|                              |                            |
-| -   Stephan Janosch (SJ)     | -   Martin Hammitzsch (MH) |
-+------------------------------+----------------------------+
+- Stephan Druskat (SD)
+- Frank Löffler (FL)
+- Bernadette Fritzsch (BF)
+- Daniel Nüst (DN)
+- Stephan Janosch (SJ)
+- Martin Hammitzsch (MH)
 
 1.  **Veröffentlichung der Abschrift von Sitzungsprotokoll**
 
