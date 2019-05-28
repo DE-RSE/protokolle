@@ -1,23 +1,17 @@
-### **Vorstandssitzung de-RSE e.V.**
+# Vorstandssitzung de-RSE e.V.
 
 01.02.2019, 9:00 -- 9:45
 
-+-----------------------------------+-----------------------------------+
-| **Teilnehmer:**                   |                                   |
-+===================================+===================================+
-| -   Stephan Druskat (SD)          | -   Frank Löffler (FL)            |
-|                                   |                                   |
-| <!-- -->                          | -   Daniel Nüst (DN) (nur bis     |
-|                                   |     9:30)                         |
-| -   Bernadette Fritzsch (BF) -    |                                   |
-|     Protokoll                     |                                   |
-|                                   |                                   |
-| -   Stephan Janosch (SJ)          |                                   |
-+-----------------------------------+-----------------------------------+
-| **Entschuldigt**                  |                                   |
-+-----------------------------------+-----------------------------------+
-| -   Martin Hammitzsch (MH)        |                                   |
-+-----------------------------------+-----------------------------------+
+**Teilnehmer:**
+
+- Stephan Druskat (SD)
+- Frank Löffler (FL)
+- Daniel Nüst (DN) (nur bis 9:30)
+- Bernadette Fritzsch (BF, Protokoll)
+- Stephan Janosch (SJ)
+
+_Entschuldigt:_
+- Martin Hammitzsch (MH)
 
 1.  **Registereintragung **
 
