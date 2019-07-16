@@ -3,7 +3,7 @@ Anhang 1
 
 Teilnehmerliste Mitgliederversammlung de-RSE e.V. 6.6.2019
 ----------------------------------------------------------
-(persönlich anwesend bzw. vorliegende Vollmacht)
+(persönlich anwesend bzw. Vertretungen durch vorliegende Vollmacht)
 
 | Nr. | Nachname     | Vorname             | Anwesend | Stimmberechtigt |
 |-----|--------------|---------------------|----------|-----------------|
