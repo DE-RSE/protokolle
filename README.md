@@ -9,3 +9,9 @@ Um ein druckfertiges PDF aus einem Markdown-Dokument zu erstellen eignet sich un
 ```bash
 pandoc Vorstandssitzungen/Protokoll-Vorstand-deRSE-2019-05-17.md  --pdf-engine=xelatex -o print.pdf
 ```
+
+Für schmalere Ränder: 
+
+```bash
+pandoc Vorstandssitzungen/Protokoll-Vorstand-deRSE-2019-05-17.md -V geometry:margin=2.5cm --pdf-engine=xelatex -o print.pdf
+```
