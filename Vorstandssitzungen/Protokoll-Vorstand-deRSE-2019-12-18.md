@@ -7,18 +7,14 @@ Teilnehmer
 ----------
 
 -   Frank Löffler
-
 -   Stephan Druskat (zunächst passiv)
-
 -   Bernadette Fritzsch
-
 -   Stephan Janosch
 
+entschuldigt
+-   Martin Hammitzsch
+	
 *Die Vorstandssitzung ist beschlussfähig.*
-
--   entschuldigt
-
-    -   Martin Hammitzsch
 
 Tagesordnung
 ============
@@ -33,21 +29,19 @@ wird angenommen.
 
 -   Vereinsmitgliederanzahl: 45
 
-    -   Kontostand: 2000,95 €
+-   Kontostand: 2000,95 €
 
-    -   Barkassenstand: 0 €
+-   Barkassenstand: 0 €
 
-    -   Anzahl unbezahlter Mitgliedsbeiträge: 6, die betreffenden Mitglieder
+-   Anzahl unbezahlter Mitgliedsbeiträge: 6, die betreffenden Mitglieder
         sind angeschrieben.
 
-    -   Verdacht auf fehlerhaften Kontoauszug für Juni, SJ kümmert sich darum.
+-   Verdacht auf fehlerhaften Kontoauszug für Juni, SJ kümmert sich darum.
         Eventuell können die 60 Euro Diskrepanz damit erklärt werden.
 
-    -   Spendenquittung - wird beim nächsten Mal diskutiert
+-   Spendenquittung - wird beim nächsten Mal diskutiert
 
-    -   Mitglieder der Mailingliste: 341
-
-    -   Twitter-Follower: 550
+-   Mitglieder der Mailingliste: 341, Twitter-Follower: 550
 
     ![](https://pad.gwdg.de/uploads/upload_57c86790a0e09d459bead6068522feb0.png)
 
@@ -57,55 +51,55 @@ wird angenommen.
 
     -   Bericht Recherche SJ - nichts Neues, verschoben
 
-    1.  Stand der **Vereinsdatenverwaltung**
+2.  Stand der **Vereinsdatenverwaltung**
 
-        -   MH berichtet von Test des backup aus owncloud - MH nicht anwesend:
+    -   MH berichtet von Test des backup aus owncloud - MH nicht anwesend:
             verschoben
 
-    2.  Dokumente **IT-Infrastruktur**bestand und -anforderungen
+3.  Dokumente **IT-Infrastruktur**bestand und -anforderungen
 
-        -   verlinkt auf https://pad.gwdg.de/q2Z-gJAyTFGnpcLfim1SnQ\#
+    -   verlinkt auf https://pad.gwdg.de/q2Z-gJAyTFGnpcLfim1SnQ\#
 
-        -   in wiki oder github-MD verschieben?
+    -   in wiki oder github-MD verschieben?
 
-        -   entscheiden, ob wir das nicht öffentlich machen können
+    -   entscheiden, ob wir das nicht öffentlich machen können
 
-    3.  **Vereinshaftpflicht**
+4.  **Vereinshaftpflicht**
 
-        -   BF hat bei RDA Deutschland e.V. nachgefragt, der aber keine
+    -   BF hat bei RDA Deutschland e.V. nachgefragt, der aber keine
             Haftfplicht hat
 
-        -   Recherche von SD zu Schutzbrief Deutsches Ehrenamt
+    -   Recherche von SD zu Schutzbrief Deutsches Ehrenamt
 
-            -   welche Versicherungen sind sinnvoll?
+        -   welche Versicherungen sind sinnvoll?
 
-                -   Haftpflicht bei verursachten Schäden durch Angestellte oder
+            -   Haftpflicht bei verursachten Schäden durch Angestellte oder
                     Vorstand
 
-                -   Veranstalterhaftpflicht bei Schäden bei Veranstaltungen
+            -   Veranstalterhaftpflicht bei Schäden bei Veranstaltungen
 
-                -   Vermögensschädenversicherung - schützt das Vermögen des
+            -   Vermögensschädenversicherung - schützt das Vermögen des
                     Vereins gegen schuldhafte Pflichtverletzung, es gibt auch
                     Versicherungen gegen vorsätzliche Pflichtverletzung
 
-                -   Versicherung, die private gesamtschuldnerische Haftung wird
+            -   Versicherung, die private gesamtschuldnerische Haftung wird
                     aufgehoben
 
-            -   Schutzbrief relativ teuer 399 Euro, mit Rechtsschutz 590 Euro
+        -   Schutzbrief relativ teuer 399 Euro, mit Rechtsschutz 590 Euro
 
-                -   Angebot von Allianz
+            -   Angebot von Allianz
 
-            -   wahrscheinlich brauchen wir nicht alle dort angebotenen
+        -   wahrscheinlich brauchen wir nicht alle dort angebotenen
                 Produkte, so dass er zu teuer ist.
 
-            -   eventuell besser, einzelne Versicherungen über Vergleichsportal
+        -   eventuell besser, einzelne Versicherungen über Vergleichsportal
                 buchen
 
-            -   nochmals bei F2F besprechen, wichtig für Konferenz
+        -   nochmals bei F2F besprechen, wichtig für Konferenz
 
-    4.  Agenda **F2F Treffen** wird angesprochen:
+5. Agenda **F2F Treffen** wird angesprochen:
 
-        -   Pad: https://pad.gwdg.de/AFqNJjewRHKHDWU9ma4dYw\#
+    -   Pad: https://pad.gwdg.de/AFqNJjewRHKHDWU9ma4dYw\#
 
 ### 4. "öffentliche" Vereinsaktivitäten
 
@@ -133,185 +127,184 @@ wird angenommen.
 
                 -   TODO: SJ spricht mit Michael Gödicke
 
-        -   Welche Kosten fallen bei der Konferenz an?
+    -   Welche Kosten fallen bei der Konferenz an?
 
-            -   Catering --\> kann an Sponsoren ausgelagert werden, um die
+        -   Catering --\> kann an Sponsoren ausgelagert werden, um die
                 Gefahr der Aberkennung der Gemeinnützigkeit bei Catering
                 entgegenzuwirken.
 
-            -   Kosten durch Räume - unklar, wann Rechnung gestellt wird: TODO
+        -   Kosten durch Räume - unklar, wann Rechnung gestellt wird: TODO
                 FL
 
-        -   Falls deRSE e.V. (Mit-)veranstalter würde, brauchen wir schnell
+    -   Falls deRSE e.V. (Mit-)veranstalter würde, brauchen wir schnell
 
-            -   sehr kurzen Draht zu Steuerberatung mit Konferenzerfahrung im
+        -   sehr kurzen Draht zu Steuerberatung mit Konferenzerfahrung im
                 gemeinnützigen Verein, am besten sowohl:
 
-                -   nicht kommerziell als Teil des Konferenzplanungsteams
+        	-   nicht kommerziell als Teil des Konferenzplanungsteams
 
-                -   kommerziell als Ergänzung und für Abschluss
+            -   kommerziell als Ergänzung und für Abschluss
 
-            -   Haftpflicht für Großveranstaltungen
+        -   Haftpflicht für Großveranstaltungen
 
-            -   Expertise in genauer Buchhaltung (Kassenwärter?), speziell
+        -   Expertise in genauer Buchhaltung (Kassenwärter?), speziell
                 genaue Trennung aller Ausgaben/Einnahmen nach Typen
 
-            -   mögliche Gefahren
+        -   mögliche Gefahren
 
-                -   unerwartete Steuerverpflichtungen
+            -   unerwartete Steuerverpflichtungen
 
-                -   Verlust der Gemeinnützigkeit
+            -   Verlust der Gemeinnützigkeit
 
-                -   erzwungenes Insolvenzverfahren, sollten wir zu irgendeinem
-                    Zeitpunkt unter 0€ kommen (z.Bsp. unerwartete Steuern)
+            -   erzwungenes Insolvenzverfahren, sollten wir zu irgendeinem
+                Zeitpunkt unter 0€ kommen (z.Bsp. unerwartete Steuern)
 
-        -   SJ schlägt vor Beratung bei Rechtsanwalt/Steuerberater
+    -   SJ schlägt vor Beratung bei Rechtsanwalt/Steuerberater
 
-            -   z.B. https://www.gemeinnuetzigkeit-dresden.com/leistungen/
+        -   z.B. https://www.gemeinnuetzigkeit-dresden.com/leistungen/
 
-            -   SD: Steuerberater vor Ort, den man dann auch für Steuererklärung
-                kontaktieren kann
+        -   SD: Steuerberater vor Ort, den man dann auch für Steuererklärung
+            kontaktieren kann
 
-    1.  FL berichtet über **NFDI-Querschnittstreffen** am 4.12. in Berlin
+2.  FL berichtet über **NFDI-Querschnittstreffen** am 4.12. in Berlin
 
-        -   generell anhaltende Atmosphäre des Unwissens und Hörensagens, was
+    -   generell anhaltende Atmosphäre des Unwissens und Hörensagens, was
             Schlüsselfragen der NFDI angeht
 
-            -   unklar, ob 2020 Querschnittsthemen zum Antrag zugelassen werden
+        -   unklar, ob 2020 Querschnittsthemen zum Antrag zugelassen werden
 
-            -   unklar, wie überhaupt mit Querschnittsthemen in der NFDI
+        -   unklar, wie überhaupt mit Querschnittsthemen in der NFDI
                 umgegangen werden soll (unklar von Seiten der DFG / dem RfII)
 
-            -   unklar, wer Direktor der NFDI wird
+        -   unklar, wer Direktor der NFDI wird
 
-            -   Budget des Direktoriums für 2019/20 1,7 M€.
+        -   Budget des Direktoriums für 2019/20 1,7 M€.
 
-            -   unklar, ob es in 2020 eine NFDI Konferenz gibt
+        -   unklar, ob es in 2020 eine NFDI Konferenz gibt
 
-                -   Zeitpunkt Mai wäre ungünstig, weil dann die Anträge von 2019
+            -   Zeitpunkt Mai wäre ungünstig, weil dann die Anträge von 2019
                     noch nicht öffentlich entschieden sind
 
-                -   später ist ungünstig, weil man dann kaum noch Einfluss auf
+            -   später ist ungünstig, weil man dann kaum noch Einfluss auf
                     evtl. Anträge 2020 nehmen kann und somit der Grund der
                     Konferenz in Frage gestellt ist
 
-            -   Zusammenschluss Querschnittsthemen + Informatikkonsortium
+    -   Zusammenschluss Querschnittsthemen + Informatikkonsortium
 
-                -   Zusammenschluss wird eher als ungünstig gesehen, aber als
+        -   Zusammenschluss wird eher als ungünstig gesehen, aber als
                     letztmögliches Mittel zum Zweck nicht ausgeschlossen.
 
-                -   Konsortium für Informatik als Fachkonsortium wird generell
+        -   Konsortium für Informatik als Fachkonsortium wird generell
                     begrüßt und eine enge Zusammenarbeit mit einem solchen,
                     sollte es das geben, wird generell von allen zugesagt.
 
-                -   Es wird allgemein anerkannt, dass es selbst im günstigsten
+        -   Es wird allgemein anerkannt, dass es selbst im günstigsten
                     Fall nicht ohne einen Zusammenschluss von einigen der
                     bisherigen Querschnittskonsortien (derzeit ca 10-12) gehen
                     wird.
 
-                -   So wird NFDI2link (vor allem DFN, aber auch Bibliotheken)
+        -   So wird NFDI2link (vor allem DFN, aber auch Bibliotheken)
                     explizit nicht allein auftreten, sondern sucht aktiv
                     Partner.
 
-            -   Anwesende Querschnittsgruppen werden Dokument erarbeiten,
-                welches die "Berlin-Deklaration" aufgreift und einen
-                weiterführenden Vorschlag zum Umgang von Querschnittsthemen in
-                der NFDI macht. Dieser soll dann idealerweise auch von den
-                Unterzeichnern der "Berlin-Deklaration" unterschrieben werden,
-                um gegenüber der DFG / dem RfII mehr Gewicht zu haben.
+    -   Anwesende Querschnittsgruppen werden Dokument erarbeiten,
+        welches die "Berlin-Deklaration" aufgreift und einen
+        weiterführenden Vorschlag zum Umgang von Querschnittsthemen in
+        der NFDI macht. Dieser soll dann idealerweise auch von den
+        Unterzeichnern der "Berlin-Deklaration" unterschrieben werden,
+        um gegenüber der DFG / dem RfII mehr Gewicht zu haben.
 
-    2.  Technische Lösung für **Chapter-Webseiten** unter der de-rse Domain
+3.  Technische Lösung für **Chapter-Webseiten** unter der de-rse Domain
 
-        -   Regionale Chapter können frei eine eigene (unabhängig von deRSE)
+    -   Regionale Chapter können frei eine eigene (unabhängig von deRSE)
             Webseite aufsetzen.
 
-        -   Innerhalb der de-rse.org Domain sollten wir aber Regeln für
+    -   Innerhalb der de-rse.org Domain sollten wir aber Regeln für
             Ablauf/URL/Repo haben.
 
-        -   Ziele
+    -   Ziele
 
-            -   keine Steine in den Weg legen, sondern im Gegenteil: helfen
+        -   keine Steine in den Weg legen, sondern im Gegenteil: helfen
 
-            -   einfaches Anlagen von Chapterwebseiten mit eindeutigem Bezug zu
+        -   einfaches Anlagen von Chapterwebseiten mit eindeutigem Bezug zu
                 de-rse.org (Domain im URL)
 
-            -   Aufbau eines gewissen "Zugehörigkeitsgefühls" durch
+        -   Aufbau eines gewissen "Zugehörigkeitsgefühls" durch
                 Erfahrungsaustausch zwischen Chaptern
 
-            -   möglichst einheitlicher Auftritt, daher sollen einfache
+        -   möglichst einheitlicher Auftritt, daher sollen einfache
                 Änderungen des Templates möglich sein
 
-            -   Klärung von Urherberrechtsfragen schon im Ansatz, weshalb ein
+        -   Klärung von Urherberrechtsfragen schon im Ansatz, weshalb ein
                 Impressum für alle chapter vorgeschlagen wird
 
-        -   Vorteile 1 gemeinsames Repository
+    -   Vorteile 1 gemeinsames Repository
 
-            -   einfacheres Update/CI aller Chapterseiten bei gemeinsamem
+        -   einfacheres Update/CI aller Chapterseiten bei gemeinsamem
                 Template
 
-            -   Corparate Design erkennbar (chapters.de-rse.org/chapterX)
+        -   Corparate Design erkennbar (chapters.de-rse.org/chapterX)
 
-        -   Vorteil N Repos (pro Chapter ein eigenes Repository)
+    -   Vorteil N Repos (pro Chapter ein eigenes Repository)
 
-            -   einfacheres Rechtemanagement (Person X hat nur Zugriff auf
+        -   einfacheres Rechtemanagement (Person X hat nur Zugriff auf
                 Chapterseiten Y, aber nicht auf Chapterseiten Z)
 
-            -   getrennte Wiki/Tickets für Chapter
+        -   getrennte Wiki/Tickets für Chapter
 
-            -   skalierender Ansatz: nur im Clone, was Personen jeweils
+        -   skalierender Ansatz: nur im Clone, was Personen jeweils
                 interessiert
 
-            -   Aufsetzbar z.B. als Fork eines Template Repos
+        -   Aufsetzbar z.B. als Fork eines Template Repos
 
-        -   Nach der Diskussion wurde **einstimmig beschlossen: **
+    -   Nach der Diskussion wurde **einstimmig beschlossen: **
+	
 
-| *Es gibt ein gemeinsam gehostetes Template, aber pro Chapter jeweils ein eigenes Repository.* |
-|-----------------------------------------------------------------------------------------------|
+*Es gibt ein gemeinsam gehostetes Template, aber pro Chapter jeweils ein eigenes Repository.* 
 
 
-    3.  Diskussion zu **de-RSE-"Swag"**
+4.  Diskussion zu **de-RSE-"Swag"**
 
-        -   Ausgangspunkt war die Anfrage an FL nach de-RSE T-Shirts. Soll der
+    -   Ausgangspunkt war die Anfrage an FL nach de-RSE T-Shirts. Soll der
             Vorstand dies organisieren bzw. bei der Organisation helfen?
 
-        -   Möglichkeiten
+    -   Möglichkeiten
 
-            -   Hilfeseite zu Verwendung des Logos (im Moment zwar öffentliches
+        -   Hilfeseite zu Verwendung des Logos (im Moment zwar öffentliches
                 Repo, aber kaum beworben)
 
-            -   Anbieten von Vorlagen bei diversen Anbietern von T-Shirts,
+        -   Anbieten von Vorlagen bei diversen Anbietern von T-Shirts,
                 Tassen, ect.
 
-            -   Eigenverkauf des Vereins, z.Bsp. bei Veranstaltungen --\> Gefahr
+        -   Eigenverkauf des Vereins, z.Bsp. bei Veranstaltungen --\> Gefahr
                 der Aberkennung der Gemeinnützigkeit, keine wirtschaftliche
                 Tätigkeit des Vereins
 
-            -   externer Dienstleister produziert T-Shirt, spendet Teil des
+        -   externer Dienstleister produziert T-Shirt, spendet Teil des
                 Erlöses an Verein (s. z.B
                 https://socialshirtshop.de/ueber-uns/);
 
-            -   Verein stellt Template bereit, Template kann von jemanden aus
+        -   Verein stellt Template bereit, Template kann von jemanden aus
                 dem Verein erstellt werden --\> im Verein nachfragen FL,
                 eventuell in Jahresendmail TODO SJ
 
-        -   Soll die Finanzierung und damit auch die Einnahmen direkt über den
+    -   Soll die Finanzierung und damit auch die Einnahmen direkt über den
             Verein laufen?
 
-            -   Vorteile
+        -   Vorteile
 
-                -   Geld kommt sofort dem Verein zugute
+            -   Geld kommt sofort dem Verein zugute
 
-            -   Nachteile
+        -   Nachteile
 
-                -   Mehraufwand auf Kassenwärterseite (Buchführung,
+            -   Mehraufwand auf Kassenwärterseite (Buchführung,
                     Steuererklärung, Gemeinnützigkeit)
 
-                -   gewisses finanzielles Risiko bei Sammelbestellungen
+            -   gewisses finanzielles Risiko bei Sammelbestellungen
 
-        -   Nach Diskussion wurde **einstimmig beschlossen**:
+    -   Nach Diskussion wurde **einstimmig beschlossen**:
 
-| *Die Finanzierung von Artikeln im deRSE-Style soll nicht über Verein abgewickelt werden* |
-|------------------------------------------------------------------------------------------|
+ *Die Finanzierung von Artikeln im deRSE-Style soll nicht über den Verein abgewickelt werden* 
 
 
 ### 5. Jahresendmail 2019
