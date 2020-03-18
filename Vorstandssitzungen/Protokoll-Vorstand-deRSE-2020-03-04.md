@@ -42,7 +42,7 @@ entschuldigt:
 
 1. Vereinsverwaltung
     - Zahlungsaufforderungen für 2020 wurden verschickt
-    - Jahresabschluss 2019: Buchungen sind eingefrogen; der Detailgrad des "Standard"-Berichts aus JVerein ist nicht ausreichend für den Jahresbericht, wird bearbeitet werden müssen
+    - Jahresabschluss 2019: Buchungen sind eingefroren; der Detailgrad des "Standard"-Berichts aus JVerein ist nicht ausreichend für den Jahresbericht, wird bearbeitet werden müssen
     - Steuererklärung 2019: auf dem Schirm; ggf. Fortbildung geplant (SJ), Steuerberater möglich und wird als sinnvoll angesehen; Angebote Steuerberater werden eingeholt
     - Spendenquittung-Template gegenchecken (MH)
     - Postadresse des Vereins
