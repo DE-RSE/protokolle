@@ -29,4 +29,4 @@ Brusch, Christian Busse, Gerasimos Chourdakis, Peter Ebert, Bernd Flemisch, Sven
 Maximilian D. Funk, Volker Gast, Florian Goth, Jean-Noël Grad, Sibylle Hermann, Florian Hohmann, Stephan
 Janosch, Dominik Kutra, Jan Linxweiler, Thilo Muth, Wolfgang Peters-Kottig, Fabian Rack, Fabian H.C.
 Raters, Stephan Rave, Guido Reina, Malte Reißig, Timo Ropinski, Joerg Schaarschmidt, Heidi Seibold,
-Jan P. Thiele, Benjamin Uekerman, Stefan Unger, Rudolf Weeber und Piotr Wojciech Dabrowski - vorliegend als PDF in <https://github.com/DE-RSE/positions/blob/1cab6a8799ab3e63e2d69c88c12861964293aec9/001/manuscript.pdf> - wird einstimmig als offizielle Position von de-RSE e.V. angenommen.
+Jan P. Thiele, Benjamin Uekerman, Stefan Unger, Rudolf Weeber und Piotr Wojciech Dabrowski - vorliegend als PDF in <https://github.com/DE-RSE/positions/blob/8304df05448f22ae4293bb06ad513bc69a4ccc00/001/manuscript.pdf> - wird einstimmig als offizielle Position von de-RSE e.V. angenommen.
