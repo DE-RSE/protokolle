@@ -48,8 +48,8 @@ Tagesordnung
                 vor Ort überhaupt erlaubt sein wird
 
             -   wegen Corona gibt es Ausnahmeregelungen für MV und
-                Vorstandswahlen in Vereinen, siehe  MPI-CBG owncloud ▸ deRSE⁩ ▸
-                ⁨vereinsdokumente⁩ ▸ ⁨rechtliches⁩ ▸ ⁨covid19⁩
+                Vorstandswahlen in Vereinen, siehe MPI-CBG owncloud 
+				--> deRSE --> vereinsdokumente --> rechtliches --> covid19
 
             -   MH will nicht mehr als stv. Schatzmeister kandidieren; SD und DN
                 fragen;
@@ -59,16 +59,16 @@ Tagesordnung
 
             -   Wahlen remote organisieren,
 
-            -   Konzept ausarbeiten bis zur nächsten Sitzung incl. Zeitplan --\>
+            -   Konzept ausarbeiten bis zur nächsten Sitzung incl. Zeitplan -->
                 FL
 
         -   Beitragsbescheinigung anschauen, Template Mitgliederbescheinigung in
             jamaica integrieren
 
-        -   Meilensteine in github eintragen --\> alle
+        -   Meilensteine in github eintragen --> alle
 
-    -   Diskussion zu Password safe (z.B. für Kopien Ausweis) --\> DN berichtet
-        --\> vertagt
+    -   Diskussion zu Password safe (z.B. für Kopien Ausweis) --> DN berichtet
+        --> vertagt
 
 4.  SORSE
 
@@ -96,10 +96,10 @@ Tagesordnung
 
         -   FL und SJ haben schon zugestimmt
 
-6.  Webseiten Hackathon: https://pad.gwdg.de/rRkUpGy2Tjyj0FsGTa2Kuw\#
+6.  Webseiten Hackathon: https://pad.gwdg.de/rRkUpGy2Tjyj0FsGTa2Kuw
 
     -   wird fortgesetzt, nächster Termin wird im chat festgelegt
 
 7.  Nächster Termin
 
-    -   Vorschlag: 13.05.2020 10 Uhr nächste Vorstandssitzung
+    -   13.05.2020 10 Uhr nächste Vorstandssitzung
