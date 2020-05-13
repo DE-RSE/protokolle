@@ -51,8 +51,7 @@ Tagesordnung
                 Vorstandswahlen in Vereinen, siehe MPI-CBG owncloud 
 				--> deRSE --> vereinsdokumente --> rechtliches --> covid19
 
-            -   MH will nicht mehr als stv. Schatzmeister kandidieren; SD und DN
-                fragen;
+            -   MH wird nicht kandidieren; SD und DN fragen;
 
             -   alle übrigen Vorstandsmitglieder sind bereit, ein weiteres Mal
                 zu kandidieren
