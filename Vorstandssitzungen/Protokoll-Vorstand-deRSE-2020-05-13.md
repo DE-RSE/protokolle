@@ -35,7 +35,7 @@ Protokoll: DN
     - Aufgaben zur Vorbereitung werden zeitnah verteilt
     - Konferenz-Tool
         - Präferenz Big Blue Button, weil manche Teilnehmer nicht an Zoom-Meetings teilnehmen könnten
-        - Instanz GWDG (erste Wahl), Instanz Jena (Beackup)
+        - Instanz GWDG (erste Wahl), Instanz Jena (Backup)
         - Nächste Vorstandssitzungen mit BBB, alle Vorstandsmitglieder testen BBB in den nächsten Wochen um   Erfahrungen zu sammeln
 
 1. Meilensteine 2020 und offene Issues
