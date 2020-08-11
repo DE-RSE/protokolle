@@ -53,7 +53,7 @@ Tagesordnung
     
     - Die Vorbereitung der Mitgliederversammlung 2020 wird über GitHub getrackt
     - Wahl und Kandidaten
-        - [GWDG Pad: Kandidaten stellen sich vor](https://pad.gwdg.de/ohpGHga9Qlqj2yAAhQ08Ig)
+        - [GWDG Pad: Kandidat*innen stellen sich vor](https://pad.gwdg.de/ohpGHga9Qlqj2yAAhQ08Ig)
         - FL erledigt: Antwort und Aufstellung im Pad Florian Thiery
     - Mail als offizielle Einladung mit:
         - [Jahresbericht](https://github.com/DE-RSE/berichte/blob/master/Jahresberichte/2019/rechenschaftsbericht.tex)
