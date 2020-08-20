@@ -54,7 +54,7 @@ Protokoll: Daniel Nüst
     - Abgleich der Teilnehmer mit der Mitgliederliste
     - Benennung in der Erinnerungsmail nochmal erwähnen 
     - Für nach Berlin anreisende: voraussichtliche Dauer: offizieller Teil vielleicht 1-2 Stunden, aber danach noch Diskussionen einplanen: evtl. 16-18 Uhr Rückfahrt
-        - Stephan Janosch: 10:42 am HBF an, 18:26 HBF ab
+        - erste Personen werden ab gegen 12 Uhr dort anwesend sein, eventuell eher
     - Bericht vor-Ort-Begehung [DN]:
         - sehr schöner Raum, Akustikdecke und Teppichboden (vgl. Fotos)
         - Präsentationbildschirm und Laptop werden gestellt, ebenso Kabel (Strom, HDMI, ..)
