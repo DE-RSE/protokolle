@@ -88,8 +88,8 @@ Tagesordnung
             - nach Technik vor Ort zu fragen, Internet, Web-Cam, Beamer/Monitor
                 - Videoschnittstelle
                 - LAN-Kabel
-                - Raummikro (wird mitgebracht con SJ und DN)
-        - Wer schreibt Einladung? muss nächste Woche Mittwoch 12.08.raus!!
+                - Raummikro (wird mitgebracht von SJ und DN)
+        - Wer schreibt Einladung? muss nächste Woche Mittwoch 12.08.raus!
             - FL: [Entwurf](https://github.com/DE-RSE/materials/blob/master/Einladung_Jahreshauptversammlung/Einladung_Jahreshauptversammlung_2020.tex)
         - Hinweis auf der Webseite auf MV wäre gut
             - Blog Post nach Versenden und basierend auf der Einladung
