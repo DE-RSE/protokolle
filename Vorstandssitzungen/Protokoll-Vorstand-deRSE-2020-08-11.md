@@ -13,7 +13,7 @@ Teilnehmer
     - Daniel Nüst
     - Martin Hammitzsch
 
-- Entschuldigt: Bernadette Fritsch
+- Entschuldigt: Bernadette Fritzsch
 
 *Die Vorstandssitzung ist beschlussfähig.*
 
