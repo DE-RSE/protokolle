@@ -8,7 +8,7 @@ Anhang 1 - Teilnehmer
 | 1  | Stephan Janosch      | Frank Löffler               |
 | 2  | Daniel Nüst          | Alexander Struck            |
 | 3  | Stephan Druskat      | Anton Koch                  |
-| 4  | Thomas Krause        | Bernadette Fritzsch         |
+| 4  |                      | Bernadette Fritzsch         |
 | 5  |                      | Carina Haupt                |
 | 6  |                      | Christian Busse             |
 | 7  |                      | Dominique Hansen            |
@@ -25,5 +25,6 @@ Anhang 1 - Teilnehmer
 | 18 |                      | Philipp Sommer              |
 | 19 |                      | René Fritze                 |
 | 20 |                      | Tobias Schlauch             |
+| 21 |                      | Thomas Krause               |
 
  
