@@ -64,14 +64,9 @@ eingeholt.
 
 -   Rechenschaftsbericht Vorstand:
 
-Jan Philipp Thiele fragt, auf welchem JDK die Vereinssoftware JVerein läuft
-(OpenJDK oder Oracle JDK?). Die Frage kann von Stephan Janosch nicht spontan
-beantwortet werden; aber bei Martin Hammitzsch läuft Open JDK. Hinweis: Es
-sollte OpenJDK benuzt werden wegen potenzieller Lizenzkosten.
-
->   eher: Jan Philipp Thiele fragt, auf welchem JDK die Vereinssoftware JVerein
->   läuft (OpenJDK oder Oracle JDK?). Hinweis: Es sollte OpenJDK benuzt werden
->   wegen potenzieller Lizenzkosten.
+Jan Philipp Thiele fragt, auf welchem JDK die Vereinssoftware JVerein
+läuft (OpenJDK oder Oracle JDK?). Hinweis: Es sollte OpenJDK benuzt werden
+wegen potenzieller Lizenzkosten.
 
 -   Finanzbericht - keine Kommentare
 
