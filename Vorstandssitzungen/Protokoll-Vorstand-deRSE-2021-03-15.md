@@ -32,10 +32,6 @@ Teilnehmer
         [26.02.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-02-26.md)
         muss erstellt werden.
 
-    -   Das Protokoll der vorhergehenden Sitzung vom
-        [03.11.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-11-03.md)
-        muss erstellt werden.
-
 2.  Aktuelle Statistiken
 
     -   Vereinsmitgliederanzahl: 51 (+2, noch eine offene Anmeldung?), 7 säumige
