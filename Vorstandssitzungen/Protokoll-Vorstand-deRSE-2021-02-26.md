@@ -31,53 +31,53 @@ Teilnehmer
 
 2.  Aktuelle Statistiken
 
-    -   Vereinsmitgliederanzahl:
+    -   Vereinsmitgliederanzahl: nicht gemeldet
 
-    -   Kontostand:
+    -   Kontostand: nicht gemeldet
 
-    -   Barkassenstand:
+    -   Barkassenstand: nicht gemeldet
 
 3.  Interna
 
     1.  Issues:
         https://github.com/DE-RSE/vorstand/labels/n%C3%A4chste%20Vorstandssitzung
 
-        1.  \#105: SD spricht mit Lars
+        1.  \#105: SD plant einen Gesprächstermin mit Prof. Lars Grunske (Humbldt-Univ. zu Berlin) zur Planung eines RSE-Tracks für die SE'22-Konferenz in Berlin/Potsdam.
 
-        2.  \#102: https://github.com/DE-RSE/vorstand/pull/103/files bis heute
-            Abend reviewen
+        2.  \#102: Entwurf des Willkommensschreibens an neue Mitglieder soll bis heute
+            Abend reviewed werden
 
-        3.  \#96: Tag der Forschungssofttware über Chapters hinweg - bleibt TODO
+        3.  \#96: Tag der Forschungssoftware über Chapters hinweg - bleibt TODO
 
-        4.  \#91: Terminierung für Gespräche mit SSI läuft, SocRSE Grants Policy
+        4.  \#91: Fellowship: Terminierung für Gespräche mit SSI läuft, SocRSE Grants Policy
             als Vorlage
 
-        5.  \#90: Gleichzeitigkeit schwierig, wir machen das alleine, sagen
+        5.  \#90: NFDI-Vereinsmitgliedschaft: Gleichzeitigkeit mit GI schwierig, wir machen das alleine, sagen
             Bescheid bei der GI, nochmal mit YSV reden, Antrag fertig machen,
             beschließen
 
-        6.  \#85: vertagt, benötigt Vorstandsbeschluss
+        6.  \#85: FAIR4RS-Endorsement: vertagt, benötigt Vorstandsbeschluss
 
-        7.  \#83: vertagt, benötigt Vorstandsbeschluss & Dokument, Kommentare im
+        7.  \#83: Software Heritage Testimonial: vertagt, benötigt Vorstandsbeschluss & Dokument, Kommentare im
             Issue
 
-        8.  \#81: Entwurf überarbeiten, keine Einschränkungen
+        8.  \#81: MoU mit GI: Entwurf überarbeiten, keine Einschränkungen
 
-        9.  \#63: Ausweise fehlen
+        9.  \#63: Passwortsafe: Ausweise fehlen
 
-        10. \#57: Terminierung
+        10. \#57: Hack-Tag für Website: ist in der Terminierung
 
-        11. \#48: vertagt
+        11. \#48: Meilensteine für 2021: vertagt
 
-        12. \#28: vertagt, DN nicht da, Alle: Entwurf kommentieren
+        12. \#28: Startpakete Chapter ausarbeiten: vertagt, DN nicht da, Alle: Entwurf kommentieren
 
-        13. \#27: warten auf Bestätigung
+        13. \#27: Institutionelle Postadresse: warten auf Bestätigung
 
 4.  Zweckbetrieb
 
     1.  Gespräche mit GI
 
-        -   an MoI wird gearbeitet
+        -   an MoU wird gearbeitet
 
         -   gemeinsamer Eintritt zu NDFI eher unwahrscheinlich aus
             organisatorischen Gründen
@@ -109,7 +109,7 @@ Teilnehmer
 
 5.  Nächster Termin
 
-    -   in der Woche um den15. März: vorläufig: 15.3. 10:30
+    -   in der Woche um den 15. März: vorläufig: 15.3. 10:30
 	
 	![](spacer.jpg)
 
