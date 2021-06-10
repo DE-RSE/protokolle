@@ -43,11 +43,9 @@ Teilnehmer
 
     -   Vereinsmitgliederanzahl:
 
-    \| Standard \| ermäßigt \| Förderm. \| Summe \|
-
-    \|----------\|----------\|----------\|-------\|
-
-    \| xx \| x \| x \| xx \|
+| Standard | ermäßigt  | Fördermitglied | Summe |
+|----------|-----------|----------------|-------|
+| 49       | 2         | 1              | 52    |
 
     -   Kontostand: 7448,78 €
 
