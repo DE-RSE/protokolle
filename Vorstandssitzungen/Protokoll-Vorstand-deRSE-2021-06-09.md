@@ -43,15 +43,17 @@ Teilnehmer
 
     -   Vereinsmitgliederanzahl:
 
-| Standard | ermäßigt  | Fördermitglied | Summe |
-|----------|-----------|----------------|-------|
-| 49       | 2         | 1              | 52    |
+| Standard | ermäßigt | Fördermitglied | Summe |
+|----------|----------|----------------|-------|
+| 49       | 2        | 1              | 52    |
 
-    -   Kontostand: 7448,78 €
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-   Kontostand: 7448,78 €
 
-    -   Barkassenstand: 0 €
+-   Barkassenstand: 0 €
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-3.  Interna
+1.  Interna
 
     1.  Jahresabschluss 2020 (SJ)
 
@@ -133,7 +135,7 @@ Teilnehmer
 
         -   \#48: Meilensteine - SJ/FT schauen sich das in Jameica an
 
-4.  Zweckbetrieb
+2.  Zweckbetrieb
 
     1.  Blog/Stellungnahme zu Zukunft von NFDI4RSE
 
@@ -141,9 +143,7 @@ Teilnehmer
 
     2.  Neues von internationaler Umfrage
 
-        -   [SJ] will jemand testen?
-
-        -   Link ???????????
+        -   SJ - Tests sollen gemacht werden, wenn Übersetzung fertig ist
 
     3.  Zugang zu Chat
 
@@ -169,7 +169,7 @@ Teilnehmer
 
         -   findet am 25.06. vormittags statt, Info in rocket Chat
 
-5.  Nächster Termin
+3.  Nächster Termin
 
     -   05.07. 9:00 Uhr
 
