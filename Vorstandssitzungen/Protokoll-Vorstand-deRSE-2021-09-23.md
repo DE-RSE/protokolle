@@ -55,12 +55,13 @@ Gast: Stephan Druskat
 
 2.  Aktuelle Statistiken
 
-    -   Vereinsmitgliederanzahl: \| Standard \| ermäßigt \| Förderm. \| Summe \|
-        \|----------\|----------\|----------\|-------\| \| 51 \| 2 \| 1 \| 54 \|
+| Standard | ermäßigt  | Förderm. | Summe | 
+|----------|-----------|----------|-------| 
+| 51       | 2         | 1        | 54    | 
 
-    -   Kontostand: 7472,88 €
+-   Kontostand: 7472,88 €
 
-    -   Barkassenstand: 0 €
+-   Barkassenstand: 0 €
 
 3.  Interna
 
