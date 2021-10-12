@@ -60,9 +60,9 @@ Gast: Stephan Druskat
 | 51       | 2         | 1        | 54    | 
 |----------|-----------|----------|-------| 
 
-    -   Kontostand: 7472,88 €
+-   Kontostand: 7472,88 €
 
-    -   Barkassenstand: 0 €
+-   Barkassenstand: 0 €
 
 3.  Interna
 
