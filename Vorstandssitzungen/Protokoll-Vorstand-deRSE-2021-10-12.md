@@ -8,8 +8,6 @@ tags: derse
 Raumzeit
 --------
 
-Call: https://meet.gwdg.de/b/ste-mer-6kf
-
 11:00 Uhr - 12:00 Uhr
 
 Teilnehmer
@@ -29,16 +27,21 @@ Teilnehmer
 
 1.  Protokolle:
 
-    -   Die Protokolle der vorhergehenden Sitzungen vom [31.08.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-08-31.md), 
-        vom [02.09.2021​](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-02.md), vom
-        [13.09.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-13.md) und vom
-        [23.09.2021​](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-23.md) werden
-        einstimmig angenommen.
+    -   Die Protokolle der vorhergehenden Sitzungen vom
+        [31.08.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-08-31.md),
+        vom
+        [02.09.2021​](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-02.md),
+        vom
+        [13.09.2021](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-13.md)
+        und vom
+        [23.09.2021​](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2021-09-23.md)
+        werden einstimmig angenommen.
 
     -   [Das Protokoll der
         MV](https://github.com/DE-RSE/protokolle/blob/master/Mitgliederversammlungen/MV-deRSE-2021-09-15.md)
         musste nochmals angepasst werden (lt Satzung müssen Versammlungsleiter
-        und Protokollant unterschreiben). Das Protokoll der MV wird bis auf noch zu korrigierendem Typo ("Teilnehmer\*nnen") einstimmig angenommen. 
+        und Protokollant unterschreiben). Das Protokoll der MV wird bis auf noch
+        zu korrigierendem Typo ("Teilnehmer\*nnen") einstimmig angenommen.
 
 2.  Aktuelle Statistiken
 
@@ -46,8 +49,8 @@ Teilnehmer
 
         -   keine Änderungen: Standard: 51, ermäßigt: 2, Fördermitglied: 1
 
-        -   wahrscheinlich wurden im Juli-Protokoll fälschlicherweise auch die ermäßigten Mitglieder
-            bei den Standard-Mitgliedschaften mitgezählt
+        -   wahrscheinlich wurden im Juli-Protokoll fälschlicherweise auch die
+            ermäßigten Mitglieder bei den Standard-Mitgliedschaften mitgezählt
 
     -   Kontostand: 7460,98 €
 
@@ -57,19 +60,22 @@ Teilnehmer
 
         -   Haftpflicht: 298,06 €
 
-        -   Versicherung soll fortgesetzt werden, wir rechnen ab kommenden Jahr wieder mit der Möglichkeit von Präsenzveranstaltungen. 
-		Vielleicht kann Versicherungsschutz auch bei Veranstlatungen von Chaptern genutzt werden, wenn Verein als Veranstalter auftritt. 
+        -   Versicherung soll fortgesetzt werden, wir rechnen ab kommenden Jahr
+            wieder mit der Möglichkeit von Präsenzveranstaltungen. Vielleicht
+            kann Versicherungsschutz auch bei Veranstlatungen von Chaptern
+            genutzt werden, wenn Verein als Veranstalter auftritt.
 
 3.  Interna
 
     1.  Transparenzregister
 
-        1.  FL hat per Telefon und email nachgefragt, aber bisher keine Antwort. --> nochmals nachhaken
+        1.  FL hat per Telefon und email nachgefragt, aber bisher keine Antwort.
+            --\> nochmals nachhaken
 
     2.  Issues:
         https://github.com/DE-RSE/vorstand/labels/n%C3%A4chste%20Vorstandssitzung
 
-        -   [48](https://github.com/DE-RSE/vorstand/issues/48) offene
+        -   [48](https://github.com/DE-RSE/vorstand/issues/48): offene
             Meilensteine 2021
 
             -   Arbeitsgruppenprozess
@@ -79,19 +85,21 @@ Teilnehmer
             -   Rücklagenkonzept --\> muss im Jahresabschluss verankert sein, SJ
                 mit FT (nochmals checken, wie hoch die Rücklage sein darf),
 
-            -   Beitragsbescheinigungen  --\> unverändert
+            -   Beitragsbescheinigungen --\> unverändert
 
         -   [57](https://github.com/DE-RSE/vorstand/issues/57): Webseite --\>
             Philipp Sommer hat Bereitschaft signalisiert
 
             -   FL wird Treffen organisieren
 
-            -   evtl. von den neuen Webseiten https://us-rse.org Anregungen holen
+            -   evtl. von den neuen Webseiten https://us-rse.org Anregungen
+                holen
 
         -   [63](https://github.com/DE-RSE/vorstand/issues/63): Passwortsafe
 
             -   Ausweis Florian fehlt noch
-			-	Zugriff von Jan einrichten
+
+            -   Zugriff von Jan einrichten
 
         -   Outboarding
 
@@ -102,14 +110,18 @@ Teilnehmer
 
         -   Onboarding
 
-            -   Florian: noch  [113](https://github.com/DE-RSE/vorstand/issues/113): (Bank) ausstehend
+            -   Florian: noch
+                [113](https://github.com/DE-RSE/vorstand/issues/113): (Bank)
+                ausstehend
 
             -   Jan
 
-            -   Antrag bei Registergericht mit beglaubigter Unterschrift stellen. Beglaubigung durch Notar oder andere berechtigte Stelle. 
+            -   Antrag bei Registergericht mit beglaubigter Unterschrift
+                stellen. Beglaubigung durch Notar oder andere berechtigte
+                Stelle.
 
-            -   To Do: alle informieren sich über das Procedere, wir reden bei der
-                nächsten Sitzung nochmals drüber
+            -   To Do: alle informieren sich über das Procedere, wir reden bei
+                der nächsten Sitzung nochmals drüber
 
             -   https://www.citizens-forests.org/wissensdatenbank/die-vereinsgruendung-im-ueberblick/
 
@@ -133,7 +145,7 @@ Teilnehmer
 
 4.  Zweckbetrieb
 
-    1.  LoS für PID Projekt 
+    1.  LoS für PID Projekt
 
         -   Vorschlag wird mit den vorgenommenen Änderungen angenommen
 
@@ -179,7 +191,8 @@ Teilnehmer
 
     9.  German Reproducibility Day 16.10.21
 
-        -   Hinweis auf Veranstaltung https://reproducibilitynetwork.de/germanreproday
+        -   Hinweis auf Veranstaltung
+            https://reproducibilitynetwork.de/germanreproday
 
     10. Tag der Forschungssoftware
 
@@ -188,7 +201,7 @@ Teilnehmer
 5.  Nächster Termin
 
     -   Umfrage aufsetzen (BF)
-	
+
 ![](spacer.jpg)
 
 ..................................
