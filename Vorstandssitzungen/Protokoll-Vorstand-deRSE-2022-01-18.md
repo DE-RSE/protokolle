@@ -40,15 +40,13 @@ Teilnehmer
 
     -   Vereinsmitgliederanzahl:
 
-    \| Standard \| ermäßigt \| Förderm. \| Summe \|
+        | Standard | ermäßigt | Förderm. | Summe |
+		|----------|----------|----------|-------|
+		|       53 |        2 |        1 |    56 |
 
-    \|----------\|----------\|----------\|-------\|
+    - Kontostand: 8.413,58 €
+    - Barkassenstand: 0 €
 
-    \| xx \| x \| x \| xx \|
-
-    -   Kontostand: xxx €
-
-    -   Barkassenstand: 0 €
 
 3.  Interna
 
