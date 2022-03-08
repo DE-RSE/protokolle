@@ -20,7 +20,7 @@ Teilnehmer
 
 **Entschuldigt**:
 
--   \-Daniel Nüst
+-   Daniel Nüst
 
 -   Florian Thiery
 
