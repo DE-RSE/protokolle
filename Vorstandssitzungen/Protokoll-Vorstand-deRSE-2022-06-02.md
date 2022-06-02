@@ -187,3 +187,13 @@ Teilnehmende
 5.  Nächster Termin
 
     -   23.06. 13:00 Uhr
+
+ 
+
+![](spacer.jpg)
+
+..................................
+
+Bernadette Fritzsch
+
+Schriftführerin
