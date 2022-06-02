@@ -27,7 +27,8 @@ Teilnehmende
 
     -   Das Protokoll der vorhergehenden Sitzung vom
         [05.04.2022](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2022-04-05.md)
-        wird angenommen.
+        konnte nicht angenommen werden, da der Vorstand nicht beschlussfähig
+        ist.
 
 2.  Aktuelle Statistiken - wird in nächster Sitzung nachgeholt
 
