@@ -39,13 +39,12 @@ Teilnehmende
 
 2.  Aktuelle Statistiken
 
-    -   Änderung Vereinsmitgliederanzahl: \| Standard \| ermäßigt \| Förderm. \|
-        Summe \| \|----------\|----------\|----------\|-------\| \| x \| x \| x
-        \| x \|
+    -   Änderung Vereinsmitgliederanzahl: 
+    	1 Neuanmeldung
 
-    -   Kontostand: x €
+    -   Kontostand: 8242,61 €
 
-    -   Barkassenstand: x €
+    -   Barkassenstand: 0 €
 
     -   säumige Mitglieder wegen Beitragszahlung mahnen (SJ, FT)
 
