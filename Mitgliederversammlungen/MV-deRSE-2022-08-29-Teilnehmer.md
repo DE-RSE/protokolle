@@ -3,7 +3,6 @@
 | Nr   | Name                    | wahlberechtigt |
 | ---- | ----------------------- | -------------- |
 | 1    | Appel	Franziska      | x              |
-|      |                         | x              |
 | 2    | Caspart	René         | x              |
 | 3    | Dietrich	Jan Philipp | x              |
 | 4    | Druskat	Stephan      | x              |
