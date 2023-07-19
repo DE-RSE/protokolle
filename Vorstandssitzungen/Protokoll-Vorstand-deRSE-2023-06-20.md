@@ -15,11 +15,11 @@ tags: derse
 Die Vorstandssitzung ist beschlussfähig.
 
 1. Protokolle:
-    
+   
     Das Protokoll der vorhergehenden Sitzung vom [2023-06-05](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2023-06-05.md) wird angenommen.
     
 2. Aktuelle Statistiken
-    - Mitglieder: voraussichtlich +2 
+    - Mitglieder: 65 
     
     - Kontostand:  11612,08 €
     
@@ -31,11 +31,11 @@ Die Vorstandssitzung ist beschlussfähig.
     
 3. Interna
     1. Satzungsänderung offiziell machen
-        
+       
         Status unverändert: DN hat Kontakt mit Notar aufgenommen, Protokolle sind an ihn verschickt worden. Jedoch konnte DN danach nicht erreicht werden. 
         
     2. [Issues nächste Vorstandssitzung](https://github.com/DE-RSE/vorstand/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22n%C3%A4chste+Vorstandssitzung%22)
-        
+       
         -  [#147](https://github.com/DE-RSE/vorstand/issues/147) - deRSE Präsenz auf Mastodon
             - Gründung des Arbeitskreises "Social Media team" von DN angestoßen, Heidi hatte sich gemeldet. Status unklar --> DN fragen 
                 - ist eingebettet in allg. Diskussion zu Community Management und Kommunikation (mit HiRSE)
