@@ -100,7 +100,7 @@ Die Vorstandssitzung ist beschlussfähig.
 5. nächster Termin: 
     - auf der un-deRSE
 
-![](C:\Users\fritzsch\Documents\de-RSE\protokolle\Vorstandssitzungen\spacer.jpg)
+![](spacer.jpg)
 
 ..................................
 
