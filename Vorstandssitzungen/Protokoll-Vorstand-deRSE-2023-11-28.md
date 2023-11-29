@@ -30,7 +30,7 @@ Die Vorstandssitzung ist beschlussfähig.
 2. Aktuelle Statistiken
     - Mitglieder: 69
     - Kontostand: 11013,18 €
-    - Barkassenstand: 0 €
+    - Barkasse: vorhanden
     - Steuererklärung: SJ und MM arbeiten gemeinsam dran
 3. Interna
     1. Infrastruktur
