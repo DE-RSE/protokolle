@@ -28,9 +28,9 @@ Die Vorstandssitzung ist beschlussfähig.
     - [x] Das Protokoll der vorhergehenden Sitzung vom [2023-08-29](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/Protokoll-Vorstand-deRSE-2023-08-29.md) wird angenommen.
     - Das Protokoll der vorhergehenden Sitzung vom 2023-10-26 wird diesmal nicht angenommen (existiert noch nicht wegen fehlender Informationen).
 2. Aktuelle Statistiken
-    - Mitglieder: 
-    - Kontostand: €
-    - Barkassenstand: ja €
+    - Mitglieder: 69
+    - Kontostand: 11013,18 €
+    - Barkassenstand: 0 €
     - Steuererklärung: SJ und MM arbeiten gemeinsam dran
 3. Interna
     1. Infrastruktur
