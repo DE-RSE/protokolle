@@ -51,12 +51,12 @@ Die Vorstandssitzung ist beschlussfähig.
 **11. Januar 2024 13 Uhr**
 
 
-![](spacer.jpg)
+<br />
+<br />
+<br />
 
 ..................................
 
 Jan Philipp Dietrich
 
 Schriftführer
-
- 
