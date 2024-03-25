@@ -1,5 +1,8 @@
 ---
 tags: derse
+output:
+  html_document:
+    df_print: paged
 ---
 # 2024-02-15 Vorstandssitzung de-RSE e.V.
 
