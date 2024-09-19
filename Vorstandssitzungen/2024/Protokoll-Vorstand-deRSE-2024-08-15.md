@@ -17,8 +17,7 @@ Die Vorstandssitzung ist __NICHT__ beschlussfähig.
 
 1. Protokolle:
     - Das Protokoll der Sitzung vom [2024-07-18](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2024/Protokoll-Vorstand-deRSE-2024-07-18.md) ist noch nicht in git.
-    - [ ] Das Protokoll der Sitzung vom [2024-08-08](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2024/Protokoll-Vorstand-deRSE-2024-08-08.md) wird angenommen.
-
+  
 2. Vereinszweck
     - Satzungsänderungen
 	    - [gendern](https://github.com/DE-RSE/satzung/pull/45/files) (MV)
