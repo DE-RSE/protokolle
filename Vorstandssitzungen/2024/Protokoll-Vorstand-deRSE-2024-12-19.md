@@ -42,7 +42,7 @@ Die Vorstandssitzung ist beschlussfähig.
     - Einladung zur Teilnahme an DFG-Kommission zu Forschungssoftwareinfrastrukturen
         - 2 Personen sollen als potentielle Kommissionsmitglieder nominiert werden (eine Person wird ausgewählt)
         - Der Wunsch ist, dass Vorstandsmitglieder nominiert werden
-        - Der Vorstand nominiert JL und FL
+        - Der Vorstand nominiert JL und BF
     - nächstes Speakers Council
         - https://pad.gwdg.de/q8cMm2j_TlGiKT7F1cxNFQ?edit
     - Barkasse
