@@ -1,6 +1,5 @@
 ---
 tags: derse
-title: 
 ---
 # 2025-01-16 Vorstandssitzung de-RSE e.V.
 
