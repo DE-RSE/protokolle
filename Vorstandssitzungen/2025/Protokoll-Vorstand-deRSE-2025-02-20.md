@@ -49,7 +49,7 @@ Die Vorstandssitzung ist beschlussfähig.
     - Zusammenarbeit GI
         - FG-RSE-LG hat sich am 14.02. getroffen 
         - Diskussion zu fast identischen Mailinglisten von deRSE und FG
-        - begrenzte Überlappung der Abonennten, aber nahezu identische Inhalte
+        - begrenzte Überlappung der Abonnenten, aber nahezu identische Inhalte
         - der Vorstand unterstützt die Zusammenführung der Listen
         - GI verfügt über eine Erklärung bzgl. rechtlicher Grundlagen bei der Organisation von Konferenzen bzgl. der Rollen Ausrichter und Förderer. Ähnliches Dokument auch für deRSE sehr nützlich für zukünftige Veranstaltungen.
         - Guidelines zu Forschungssoftware veröffentlicht. JL hat passenden Blogeintrag vorbereitet. Wird ebenfalls auf deRSE25 vorgestellt.
@@ -57,7 +57,7 @@ Die Vorstandssitzung ist beschlussfähig.
         - KIT hat Interesse angedeutet
     - SJ: https://www.confident-conference.org: DOIs for events
         - DOIs for deRSE events
-        - JS hat einen Account erstellt, welcher nun an deRSE transferriert werden muss
+        - JS hat einen Account erstellt, welcher nun an deRSE transferiert werden muss
     - FL hat einen [ROR request für de-RSE](https://github.com/ror-community/ror-updates/issues/17352) erstellt (Persistent Identifier for Research Organizations).
     - SJ: RESA
         - Towards an international research software conference
