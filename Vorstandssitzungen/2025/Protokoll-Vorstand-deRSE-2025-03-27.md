@@ -12,7 +12,7 @@ tags: derse
 - Michael Meinel (MM)
 - Stephan Janosch (JS - ab 13 Uhr)
 
-## entschuligt
+## entschuldigt
 - Bernadette Fritzsch (BF)
 
 Die Vorstandssitzung ist beschlussfähig.
@@ -69,9 +69,9 @@ Die Vorstandssitzung ist beschlussfähig.
     - Positionspapier [RSE-Gruppenpapier](https://github.com/DE-RSE/2023_paper-RSE-groups), [Review-Ticket](https://github.com/DE-RSE/projekte/issues/20), [Issues](https://github.com/DE-RSE/2023_paper-RSE-groups/issues)
         - Review-Phase abgeschlossen
         - [x] der Vorstand bestätigt die Publikation als offizielles de-RSE-Positionspapier
-    - RESA
+    - ReSA
         - nächstes Treffen am 14.04
-        - RESA wird sich 2026 an eine nationale RSE-Konferenz oder ähnliches hängen (nicht in den USA)
+        - ReSA wird sich 2026 an eine nationale RSE-Konferenz oder ähnliches hängen (nicht in den USA)
         - für 2027 noch nicht entschieden
     - de-RSE Konferenz 2026
         - nächstes Treffen 15.04. 16 Uhr
