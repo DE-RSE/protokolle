@@ -23,15 +23,15 @@ Die Vorstandssitzung ist beschlussfähig.
 ## TOPs
 
 2. FutuRSI
-    - Stakeholder Gespräche habe stattgefunden, erste Auswertungen laufen. Gespräche mit strategischen Partnern sind geplant.
+    - Stakeholder-Gespräche haben stattgefunden, erste Auswertungen laufen. Gespräche mit strategischen Partnern sind geplant.
     - Dienste-Portfolio: Umfrage 
-    - Arbeit an einer Concept Note, die im September fertig sein soll um über das Projekt zu informieren und für die Arbeit zu werben.
+    - Arbeit an einer Concept Note, die im September fertig sein soll, um über das Projekt zu informieren und für die Arbeit zu werben.
     - In Kontakt mit BMFTR
         - BMFTR an Arbeit von deRSE interessiert
         - Vorschlag: BMFTR für deRSE26 einladen und in dem Rahmen vielleicht auch DFG einladen (z.B. in Form eines Diskussionspanels, Zeitbedarf ca. 1,5h, SJ wird Idee an deRSE26-Orgateam weitergeben)
     - FM möchte für RESA community leadership forum kandidieren
         - [Research Software Community Leadership Forum (CLF)](https://www.researchsoft.org/forums/community-leadership-forum/)
-        - es wird nach Repräsentanten von unterrepresentierten Gruppen gefragt. Es ist noch abzuklären ob das auf uns passt
+        - Es wird nach Repräsentanten von unterrepräsentierten Gruppen gefragt. Es ist noch abzuklären ob das auf uns passt
 3. Vereinszweck
     - Informatik-Festival: JL kann nicht teilnehmen. BF übernimmt JLs Beitrag [hier](https://informatik2025.gi.de/programmuebersicht.html?params%5Bday%5D=2025-09-18&params%5Bevent_id%5D=1). JL sagt Anna-Lena Lamprecht Bescheid
     - RESA nächstes Treffen bzgl. Internationaler Research Software Konferenz Anfang September, SJ nimmt teil.
