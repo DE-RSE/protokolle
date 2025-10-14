@@ -1,5 +1,19 @@
 # de-RSE e.V. - Mitgliederversammlungen
 
+## 2024-12-13 (virtuell)
+1. [Protokoll](MV-deRSE-2024-12-13.pdf)
+2. [Anhang A - Rechenschaftsbericht](MV-deRSE-2024-12-13-Anhang-A-Rechenschaftsbericht_2023.pdf)
+3. [Anhang B - Finanzbericht](MV-deRSE-2024-12-13-Anhang-B-deRSEeV-Finanzbericht-2023.pdf)
+4. [Anhang C - Nachtrag Finanzbericht](MV-deRSE-2024-12-13-Anhang-C-Nachtrag%20Finanzbericht%202023.pdf)
+5. [Anhang D - Bericht Kassenprüfer](MV-deRSE-2024-12-13-Anhang-D-Kassenpruefbericht%202023%20fuer%20de-RSE%20e.V..md)
+
+## 2023-09-26 (virtuell)
+1. [Protokoll](MV-deRSE-2023-09-26.pdf)
+2. [Anhang A - Teilnehmende](MV-deRSE-2023-09-26-Anhang-A-Teilnehmende.pdf)
+3. [Anhang B - Bericht des Vorstands](MV-deRSE-2023-09-26-Anhang-B-Bericht-Vorstand.pdf)
+4. [Anhang C - Finanzbericht](MV-deRSE-2023-09-26-Anhang-C-Finanzbericht.pdf)
+5. [Anhang D - Bericht Kassenprüfer](MV-deRSE-2023-09-26-Anhang-D-Kassenpr%C3%BCfer.pdf)
+
 ## 2022-08-29 (virtuell)
 1. [Protokoll](MV-deRSE-2022-08-29.md)
 2. [Anhang A (Teilnehmer\*innenliste)](MV-deRSE-2022-08-29-Teilnehmer.md)
