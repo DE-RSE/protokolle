@@ -97,7 +97,7 @@ Die Vorstandssitzung ist beschlussfähig.
 
 ## Nächste Treffen
 
-19.11.2025 um 12:30 Uhr
+20.11.2025 um 12:30 Uhr
 
 
 <br />
