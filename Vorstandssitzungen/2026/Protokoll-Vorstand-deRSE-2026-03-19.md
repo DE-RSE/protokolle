@@ -19,7 +19,7 @@ tags: derse, vorstand
 
 1. Protokolle:
 
-    - [x] Das Protokoll der Sitzung vom [2025-02-19](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2026/Protokoll-Vorstand-deRSE-2026-02-19.md) wird angenommen.
+    - [x] Das Protokoll der Sitzung vom [2026-02-19](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2026/Protokoll-Vorstand-deRSE-2026-02-19.md) wird angenommen.
 
 ## TOPs
 1. FutuRSI
