@@ -18,7 +18,7 @@ Die Vorstandssitzung ist beschlussfähig.
 ## Formales
 
 1. Protokolle:
-    - [x] Das Protokoll der Sitzung vom [2025-12-17](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2025/Protokoll-Vorstand-deRSE-2025-12-17.md) wird angenommen.
+    - [x] Das Protokoll der Sitzung vom [2026-12-17](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2025/Protokoll-Vorstand-deRSE-2025-12-17.md) wird angenommen.
     - [x] Das Protokoll der Sitzung vom [2026-01-15](https://github.com/DE-RSE/protokolle/blob/master/Vorstandssitzungen/2026/Protokoll-Vorstand-deRSE-2026-01-15.md) wird angenommen.
 
 ## TOPs
