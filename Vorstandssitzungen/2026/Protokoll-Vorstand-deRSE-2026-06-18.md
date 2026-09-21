@@ -66,3 +66,14 @@ Die Vorstandssitzung ist beschlussfähig.
 ## Nächste Treffen
 
 16. Juli 2026, 12:30 Uhr
+
+
+<br />
+<br />
+<br />
+
+..................................
+
+Bernadette Fritzsch
+
+stellvertretende Schriftführerin

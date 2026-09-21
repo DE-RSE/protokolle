@@ -3,8 +3,6 @@ tags: derse, vorstand
 ---
 # 2026-09-06 Außerordentliche Vorstandssitzung de-RSE e.V.
 
-
-
 ## Teilnehmende
 
 - Jan Linxweiler
@@ -33,3 +31,13 @@ Die Vorstandssitzung ist beschlussfähig.
 ## Nächste Treffen
 
 17. September 2026, 12:30 Uhr
+
+<br />
+<br />
+<br />
+
+..................................
+
+Bernadette Fritzsch
+
+stellvertretende Schriftführerin
